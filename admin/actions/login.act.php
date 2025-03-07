@@ -19,7 +19,7 @@
 
   Close( $connection);
 
-  if ( empty( $rows))
+  if (empty( $rows))
   {
     header ( "location: ../error.php?error=1");
   }

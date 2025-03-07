@@ -38,7 +38,7 @@
         
         $page = $_GET['page'];
 
-        switch ( $page) 
+        switch ($page) 
         {
           case 'listado':
             include "actions/listado.act.php";

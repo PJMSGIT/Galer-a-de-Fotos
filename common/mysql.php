@@ -1,5 +1,5 @@
 <?php
-  
+  include_once "config.php";
   function Connect( $config = array()) 
   {
 

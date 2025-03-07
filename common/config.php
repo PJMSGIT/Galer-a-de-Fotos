@@ -3,9 +3,9 @@
   $config = array(
     
     'database' => array(
-      'host' => 'localhost',
-      'username' => 'dev',
-      'password' => 'mysql',
+      'host' => 'localhost:3307',
+      'username' => 'root',
+      'password' => '',
       'database' => 'GALLERY2',
       'encoding' => 'utf8',
     ),
